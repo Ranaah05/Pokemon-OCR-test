@@ -2,13 +2,13 @@
 
 An experimental project to build an OCR pipeline for identifying **Pokémon trading cards** from images and retrieving real-time card price data.
 
-## 🚀 Project Overview
+## Project Overview
 - **OCR Prototype**: Developed using Python, Jupyter Notebook, and OpenCV to detect and extract card names from images.  
 - **Preprocessing**: Implemented autocropping and contour detection to improve OCR accuracy.  
 - **API Integration**: Connected with [PokémonTCG.io](https://pokemontcg.io/) and [PokemonPrice](https://pokemonpricetracker.com/) APIs to fetch set information and live pricing data.  
 - **Version Control**: Used Git feature branches to separate **OCR experiments** and **API testing** for modular development.
 
-## 📂 Branches
+## Branches
 - `feature/ocrprac-testing` → Experiments with image preprocessing and OCR.  
 - `feature/api-testing` → Experiments with PokémonTCG.io and PokemonPrice APIs.  
 - `main` → Placeholder branch, currently nothing at the moment  
